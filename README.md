@@ -16,7 +16,7 @@ A simple yet fun language translator desktop app built with **Python** and **Tki
 
 ## 📸 Screenshot
 
-![Translator Screenshot](https://github.com/benasphy/Language_Translator/blob/main/Screenshot_GUI1.jpg)
+![Translator Screenshot](Screenshot_GUI1.jpg)
 
 ## 🚀 How to Run
 
