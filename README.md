@@ -3,11 +3,11 @@ Absolutely! Here's a clean and clear `README.md` file for your GitHub repo:
 ---
 
 ```markdown
-# 🈯 Language Translator App
+🈯 Language Translator App
 
 A simple yet fun language translator desktop app built with **Python** and **Tkinter**, using the powerful `deep_translator` package under the hood (Google Translate API).
 
-## ✨ Features
+✨ Features
 
 - 🌍 Translate between **100+ languages**
 - 🌐 Includes **Afaan Oromo**, **Amharic**, **English**, **French**, **Arabic**, and more
@@ -15,7 +15,7 @@ A simple yet fun language translator desktop app built with **Python** and **Tki
 - 🎨 Works cross-platform (tested on macOS)
 
 
-## 🚀 How to Run
+🚀 How to Run
 
 1. **Clone the repo**
 
@@ -36,7 +36,7 @@ pip install deep-translator
 python translator.py
 ```
 
-## 🧪 Example
+🧪 Example
 
 Translate from:
 
@@ -45,7 +45,7 @@ Translate from:
 - **Amharic → English**
 - …and pretty much anything else!
 
-## 📦 Dependencies
+📦 Dependencies
 
 - `tkinter` – GUI
 - `deep-translator` – for Google Translate API access
@@ -56,7 +56,7 @@ Install with:
 pip install deep-translator
 ```
 
-## 😄 Why I Built This
+😄 Why I Built This
 
 Sometimes you don’t need a reason. I just thought:
 > "Hey, wouldn't it be fun to build a translator app today?"  
