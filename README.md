@@ -14,9 +14,6 @@ A simple yet fun language translator desktop app built with **Python** and **Tki
 - 🧠 Clean and intuitive GUI with `tkinter`
 - 🎨 Works cross-platform (tested on macOS)
 
-## 📸 Screenshot
-
-![Translator Screenshot](Screenshot_GUI1.jpg)
 
 ## 🚀 How to Run
 
