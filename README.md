@@ -5,19 +5,19 @@ Absolutely! Here's a clean and clear `README.md` file for your GitHub repo:
 ```markdown
 🈯 Language Translator App
 
-A simple yet fun language translator desktop app built with **Python** and **Tkinter**, using the powerful `deep_translator` package under the hood (Google Translate API).
+A simple yet fun language translator desktop app built with Python and Tkinter, using the powerful `deep_translator` package under the hood (Google Translate API).
 
 ✨ Features
 
-- 🌍 Translate between **100+ languages**
-- 🌐 Includes **Afaan Oromo**, **Amharic**, **English**, **French**, **Arabic**, and more
+- 🌍 Translate between 100+ languages
+- 🌐 Includes Afaan Oromo, Amharic, English, French, Arabic, and more
 - 🧠 Clean and intuitive GUI with `tkinter`
-- 🎨 Works cross-platform (tested on macOS)
+- 🎨 Works cross-platform 
 
 
 🚀 How to Run
 
-1. **Clone the repo**
+1. Clone the repo
 
 ```bash
 git clone https://github.com/benasphy/Language_Translator
